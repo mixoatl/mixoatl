@@ -1,13 +1,5 @@
 ![banner](https://github.com/mixoatl/mixoatl/assets/74117790/a5fbd0c4-a0aa-4a0d-ac5c-56cfb7f4449b)
 
-****
-<h2> ¡Hola! Soy Monserrat Fernández <img src="https://media.giphy.com/media/fdSiRlH2G8JxMKeAa0/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="230">
-<p><em>Licenciatura en Ciencias Computacionales en la <a href="http://www.uanl.mx">UANL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrolladora Web por hobby<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-<br><br>
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/mixoatl/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/mixoatl/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
@@ -19,7 +11,13 @@
 	<img src="https://img.shields.io/github/followers/mixoatl?style=for-the-badge&logo=github&color=blue" alt="Github followers"/> 
 </div>
 
-<br>
+****
+<h2> ¡Hola! Soy Monserrat Fernández <img src="https://media.giphy.com/media/fdSiRlH2G8JxMKeAa0/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="230">
+<p><em>Licenciatura en Ciencias Computacionales en la <a href="http://www.uanl.mx">UANL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrolladora Web por hobby<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+<br><br><br><br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mí...
 
