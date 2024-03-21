@@ -24,10 +24,10 @@
 ```javascript
 let mixoatl = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, C++],
+  code: [Javascript, Typescript, HTML, CSS, Angular],
   tools: [React, Node, Styled-Components, Bootstrap],
   askMeAbout: ["web dev", "tech", "app dev", "music", "games"],
-  currentFocus: "be a nice web developer",
+  currentFocus: "be happy",
   funFact: "If you dreamed of the solution to the problem, you found the answer."
 
 }
