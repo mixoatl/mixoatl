@@ -14,7 +14,7 @@
 ****
 <h2> ¡Hola! Soy Monserrat Fernández <img src="https://media.giphy.com/media/fdSiRlH2G8JxMKeAa0/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="230">
-<p><em>Licenciatura en Ciencias Computacionales en la <a href="http://www.uanl.mx">UANL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrolladora Web por hobby<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Licenciatura en Ciencias Computacionales en la <a href="http://www.uanl.mx">UANL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrolladora por convicción<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <br><br><br><br>
