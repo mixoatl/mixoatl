@@ -24,9 +24,9 @@
 ```javascript
 let mixoatl = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Angular],
-  tools: [React, Node, Styled-Components, Bootstrap],
-  askMeAbout: ["web dev", "tech", "app dev", "music", "games"],
+  code: [Javascript, Typescript, HTML, CSS, Angular, Python, C++],
+  tools: [React, Node, Styled-Components, Bootstrap, VS Code],
+  askMeAbout: ["dev", "tech", "data analysis", "music", "games"],
   currentFocus: "be happy",
   funFact: "If you dreamed of the solution to the problem, you found the answer."
 
